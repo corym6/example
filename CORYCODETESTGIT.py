@@ -25,3 +25,5 @@ if "yes" in answer.lower() or "ok" in answer.lower() or "okay" in answer.lower()
         print("I'm sorry but I do not know that genre")
 else:
     print("Unfortunately, I can't help then. My apologies.")
+
+print ('idk if this gonna work')
